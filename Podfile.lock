@@ -1,0 +1,16 @@
+PODS:
+  - SnapshotKit (0.3.2)
+
+DEPENDENCIES:
+  - SnapshotKit
+
+SPEC REPOS:
+  trunk:
+    - SnapshotKit
+
+SPEC CHECKSUMS:
+  SnapshotKit: 4e6c25203719cd6be29d3d53a8160c4933102369
+
+PODFILE CHECKSUM: 956324d906f74545ca6f7bc320ce56d948cfe808
+
+COCOAPODS: 1.11.3
